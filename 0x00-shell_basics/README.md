@@ -1,0 +1,1 @@
+This project is about shell scripting. This file provides information about what each script in this project does.
